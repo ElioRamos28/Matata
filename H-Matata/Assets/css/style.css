@@ -1,0 +1,19 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+.bg-pink{ 
+    background-color:  #f07035;
+}
+footer img{
+    height: 6.25rem;
+    
+}
+
+@media (max-width:448px){
+    .ws-sm{
+        width: 180;
+    }
+}
+
